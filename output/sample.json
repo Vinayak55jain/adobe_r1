@@ -1,0 +1,915 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "International Software Testing Qualifications Board",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Version 1.0",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Foundation Level Extensions",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Overview",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Version 2014",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "May 31, 2014",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Version 2014",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "May 31, 2014",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "31 MAY 2014",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "20 DEC 2013",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "11 DEC 2013",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "6 NOV 2013",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "23 JULY 2013",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "18 JUNE 2013",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Version",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Date",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Remarks",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Revision History",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Version 2014",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "May 31, 2014",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ".......................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "4.2",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Documents and Web Sites",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ".............................................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Trademarks",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "References",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "....................................................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Content",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ".................................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Business Outcomes",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": ".........................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Overview of the Foundation Level Extension –",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Agile Tester Syllabus",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "......................................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Keeping It Current",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "...................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Entry Requirements",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "...................................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "...................................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Learning Objectives",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "............................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ".....................................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Intended Audience",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "...............................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to Foundation Level Agile Tester Extension",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "............................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to the Foundation Level Extensions",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "........................................................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "..........................................................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "..........................................................................................................................................",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Table of Contents",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Revision History",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Table of Contents",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Version 2014",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "May 31, 2014",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2014.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Xu, Ester Zabar, Wenqiang Zheng, Peter Zimmerer, Stevan Zivanovic, and Terry Zuo.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Sandberg, Dakar Shalom,  Jian Shen, Marco Sogliani, Lucjan Stapp, Yaron Tsubery, Sabine Uhde,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Helmut Pichler, Salvatore Reale, Stuart Reid, Hans Rombouts, Petri Säilynoja, Soile Sainio, Lars-Erik",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Morgan,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Ninna Morin,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Ingvar Nordstrom,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Chris",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "O’Dea,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Klaus",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Olsen, Ismo",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Paukamainen,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Nathalie Phung,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Huba Demeter, Arnaud Foucal, Cyril Fumery, Kobi Halperin, Inga Hansen, Hanne Hinz, Jidong Hu, Phill",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Almog, Richard Berns, Stephen Bird, Monika Bögge, Afeng Chai, Josephine Crawford, Tibor Csöndes,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Pääkkönen, Meile Posthuma, Gabor Puhalla, Lloyd Roden, Marko Rytkönen, Monika Stoecklein-Olsen,",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Friedenberg, Kari Kakkonen, Beata Karpinska, Sammy Kolluru, Jennifer Leger, Thomas Mueller, Tuula",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Internal Reviewers: Mette Bruhn-Pedersen, Christopher Clements, Alessandro Collino, Debra",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Authors: Rex Black, Anders Claesson, Gerry Coleman, Bertrand Cornanguer, Istvan Forgacs, Alon",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Foundation Level Working Group.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Acknowledgements",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Version 2014",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "May 31, 2014",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "achieves a Foundation Level Extension Certification in a particular subject area (e.g., Agile Tester), and",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "that is beyond the scope of this document.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "ISTQB program to incorporate new or updated knowledge. New extensions shall be discussed and",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Introduction to the Foundation Level Extensions",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Agile Tester",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Version 2014",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "May 31, 2014",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "extension exam.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "remember and recall terms and concepts stated in the Foundation Level syllabus.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "2.3 Learning Objectives",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Tester Foundation Level acronym CTFL-AT.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "People possessing an ISTQB Foundation Level Extension –",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Agile Tester certificate may use the Certified",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "an Agile project.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "professional testers. A person with the Agile Tester certificate has extended the broad understanding of",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "2.2 Career Paths for Testers",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "This Foundation Level Extension –",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Agile Tester certification may also be appropriate for anyone who",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "projects.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "4. Professionals who are experienced in their role (including unit testing) and need more",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "methods and techniques in their day to day job in Agile projects.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "3. Professionals who are relatively new to testing and are required to implement test approaches,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "environment.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "2. Junior professional testers who are just starting in the testing profession, have received the",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "1. Professionals who have achieved in-depth testing experience in traditional methods and would",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "The Foundation Level Extension –",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "2.1 Intended Audience",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Introduction to Foundation Level Agile Tester Extension",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Version 2014",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "May 31, 2014",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Foundation Level.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Extension: Agile Tester",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Baseline: Foundation",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Syllabus",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Days",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The Foundation Level Extension –",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "2.5 Structure and Course Duration",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "2.4 Entry Requirements",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Version 2014",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "May 31, 2014",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.6 Keeping It Current",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Version 2014",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "May 31, 2014",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "adds value in each of these activities.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The tester should know the differences between iteration and release planning, and how a tester",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The tester should understand the use and purpose of continuous integration.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "improvement in Agile projects.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The tester should understand how retrospectives can be used as a mechanism for process",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "business representatives.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The tester should be able to write testable user stories in collaboration with developers and",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "The tester should recall Agile software development approaches.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "early and frequent feedback.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The tester should understand the advantages of the whole-team approach and the benefits of",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Manifesto.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Chapter 1: Agile Software Development",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "3.2 Content",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "In general, a Certified Tester Foundation Level –",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Agile Tester is expected to have acquired the necessary",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "styles and channels.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "AFM7",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "AFM6",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "AFM5",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "AFM4",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "AFM3",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "AFM2",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Syllabus",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Overview of the Foundation Level Extension –",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "AFM1",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Extension –",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "3.1 Business Outcomes",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Agile Tester",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Version 2014",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "May 31, 2014",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "and to activities in Agile projects.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "black box test design techniques based on given user stories.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "cases.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "criteria.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The tester should be able to interpret relevant information to support testing activities.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The tester should be able to assess quality risks within an Agile project.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "levels and testing types.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The tester should be able to summarize the testing quadrants and their relationships with testing",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The tester should be able to recall the concepts of the test pyramid.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "driven development, and behavior-driven development.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Chapter 3: Agile Testing Methods, Techniques, and Tools",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Version 2014",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "May 31, 2014",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "References",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "[ISTQB-Web]",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Identifier",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Reference",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "4.2 Documents and Web Sites",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "ISTQB",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Overview",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "4.1 Trademarks",
+      "page": 12
+    }
+  ]
+}
