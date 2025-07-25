@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-25T14:20:00.498309"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Things to Do.pdf",
+            "section_title": "Water Sports",
+            "importance_rank": 1,
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Tips and Tricks for Packing",
+            "importance_rank": 2,
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Beach Trips",
+            "importance_rank": 3,
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "section_title": "Nightlife and Entertainment",
+            "importance_rank": 4,
+            "page_number": 11
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Introduction",
+            "importance_rank": 5,
+            "page_number": 1
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "\u2022 Cannes, Nice, and Saint-Tropez: Try jet skiing or parasailing for a thrill. \u2022 Toulon: Dive into the underwater world with scuba diving excursions to explore wrecks. \u2022 Cerb\u00e8re-Banyuls: Visit the marine reserve for an unforgettable diving experience. \u2022 Mediterranean Coast: Charter a yacht or join a sailing tour to explore the coastline and nearby islands. \u2022 Marseille: Go windsurfing or kitesurfing in the windy bays. \u2022 Port Grimaud: Rent a paddleboard and explore the canals of this picturesque village. \u2022 La Ciotat: Try snorkeling in the clear waters around the \u00cele Verte.",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "\u2022 Check the Weather: Check the forecast before packing to ensure appropriate clothing. \u2022 Make a Packing List: Create a list to ensure nothing is forgotten. Cross o\ufb00 items as you pack. \u2022 Use Packing Cubes: Organize clothes and maximize space. \u2022 Roll Your Clothes: Save space and reduce wrinkles. \u2022 Pack Dual-Purpose Items: Choose items that serve multiple purposes. \u2022 Wear Bulky Items: Wear bulky items like coats or boots during travel to save suitcase space. \u2022 Pack a Day Bag: Bring a small day bag for daily excursions. \u2022 Leave Room for Souvenirs: Leave extra space or bring a foldable bag for souvenirs. \u2022 Additional Tips: Pack a small travel umbrella, a reusable shopping bag, and a portable phone charger. Consider using a luggage scale to avoid overweight baggage fees.",
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "\u2022 Beach Bag: A large, waterproof bag for essentials. \u2022 Towels: Lightweight, quick-drying beach towels. \u2022 Beach Toys: Buckets, shovels, and toys for kids. \u2022 Snorkeling Gear: Bring your own gear for a better fit and comfort. \u2022 Additional Tips: Pack a beach umbrella or tent for shade and a cooler for drinks and snacks. Consider bringing a waterproof phone case to protect your device.",
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "The South of France o\ufb00ers a vibrant nightlife scene, with options ranging from chic bars to lively nightclubs:",
+            "page_number": 11
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing, Planning, and Exploring",
+            "page_number": 1
+        }
+    ]
+}
